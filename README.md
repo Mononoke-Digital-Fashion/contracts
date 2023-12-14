@@ -1,1 +1,1 @@
-# contract
+# Mononoke contracts
